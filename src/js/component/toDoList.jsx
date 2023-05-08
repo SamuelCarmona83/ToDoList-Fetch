@@ -125,7 +125,7 @@ const ToDoList = () => {
     return (
         <>
             <div className='container'>
-                <h1 className='text-center'>ToDo List with Fetch</h1>
+                <h1 className='text-center'>ToDo List with Fetch 🐠</h1>
                 <div className="input-group mb-3">
                     <input type="text" onKeyUp={handleAddTask} className="form-control" placeholder="What do you need to do?" aria-label="Username" aria-describedby="basic-addon1"/>
                 </div>
